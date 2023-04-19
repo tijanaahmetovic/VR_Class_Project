@@ -60,7 +60,7 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-!VR_Unity_Project_Diorama_VR.apk
+!VR_Unity_Project_HW1.apk
 
 # Crashlytics generated file
 crashlytics-build.properties
