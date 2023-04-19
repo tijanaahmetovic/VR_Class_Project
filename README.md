@@ -17,10 +17,10 @@ There are different kinds of objects in the scene pictured below.
 ### Installation
 
 Download the VR_Unity_Project_HW1.apk file to an Android phone, install and open it.
-The video below was taken when the app was being used.
+The video below was taken while using the app.
 
-https://github.com/tijanaahmetovic/VR_Class_Project/blob/master/scene_video.mp4
 
+https://user-images.githubusercontent.com/48787837/233220051-0e766acf-168b-4c92-b1a2-337e8458cff9.mp4
 
 
 <!-- ACKNOWLEDGMENTS -->
